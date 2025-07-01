@@ -1,5 +1,4 @@
-
-![Uploading Screenshot 2025-06-26 163345.png…]()
+![Uploading image.png…]()
 
 - Giới thiệu về đề tài
 Đây là ứng dụng web đơn giản cho phép hai người dùng trao đổi tin nhắn văn bản theo mô hình ngang hàng (P2P) với mức độ bảo mật cao. Hệ thống sử dụng mã hóa TripleDES, xác thực danh tính bằng RSA, và kiểm tra toàn vẹn dữ liệu với SHA-256, giúp đảm bảo các yêu cầu:
